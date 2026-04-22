@@ -27,7 +27,11 @@ To evaluate the performance of:
    * Recall
    * F1-score
 
-## 📈 Results
+## 📈 Visual Results
+
+![RF Confusion Matrix](results/confusion_matrix_random_forest.png)
+![IF Confusion Matrix](results/confusion_matrix_isolation_forest.png)
+![ROC Curve](results/roc_curve_random_forest.png)
 
 ### Random Forest
 
