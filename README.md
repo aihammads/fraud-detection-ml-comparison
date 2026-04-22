@@ -1,8 +1,8 @@
 # Fraud Detection using Machine Learning
 
-## 📌 Overview
+## Overview
 
-This project presents a comparative analysis of supervised and unsupervised machine learning techniques for fraud detection in highly imbalanced financial datasets.
+This project presents a comparative analysis of supervised (Random Forest) and unsupervised (Isolation Forest) machine learning techniques for fraud detection in highly imbalanced financial datasets.
 
 ## 🎯 Objective
 
@@ -49,7 +49,7 @@ See results folder for confusion matrix and ROC curves.
 
 ## 🧠 Key Insight
 
-Supervised models outperform unsupervised models in fraud detection when labeled data is available, especially in imbalanced datasets.
+The Random Forest model significantly outperforms Isolation Forest in detecting fraudulent transactions when labeled data is available, particularly in highly imbalanced datasets.
 
 ## 🔗 Research Paper
 
