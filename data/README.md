@@ -10,7 +10,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 1. Download `creditcard.csv`
 2. Place it in this folder:
 
-data/creditcard.csv
+`data/creditcard.csv`
 
 ## ⚠️ Note
 
