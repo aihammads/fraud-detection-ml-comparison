@@ -49,7 +49,7 @@ Supervised models outperform unsupervised models in fraud detection when labeled
 
 ## 🔗 Research Paper
 
-Available on SSRN: [ADD YOUR SSRN LINK HERE]
+Available on SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6551519
 
 ## 👤 Author
 
