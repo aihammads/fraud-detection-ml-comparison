@@ -1,6 +1,6 @@
-# Fraud Detection using Machine Learning
+# 🔐 Fraud Detection using Machine Learning
 
-## Overview
+## 🔍 Overview
 
 This project presents a comparative analysis of supervised (Random Forest) and unsupervised (Isolation Forest) machine learning techniques for fraud detection in highly imbalanced financial datasets.
 
@@ -51,7 +51,23 @@ See results folder for confusion matrix and ROC curves.
 
 The Random Forest model significantly outperforms Isolation Forest in detecting fraudulent transactions when labeled data is available, particularly in highly imbalanced datasets.
 
-## 🔗 Research Paper
+## 📁 Project Structure
+
+fraud-detection-ml-comparison/
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── data/
+│   └── README.md
+├── notebooks/
+│   └── fraud_detection_analysis.py
+├── results/
+│   ├── confusion_matrix_isolation_forest.png
+│   ├── confusion_matrix_random_forest.png
+│   └── roc_curve_random_forest.png
+└── src/
+
+## 📄 Research Paper
 
 Available on SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6551519
 
